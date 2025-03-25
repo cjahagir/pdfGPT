@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+langchain
+langchain-google-genai
+google-generativeai
+faiss-cpu  # or faiss-gpu if you have CUDA support
+python-dotenv
+langchain-community
+langchain-core
